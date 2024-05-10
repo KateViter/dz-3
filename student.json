@@ -1,0 +1,20 @@
+{
+  "student": {
+    "firstName": "John",
+    "secondName": "Smith",
+    "age": 21,
+    "speciality": "AQA",
+    "highSchoolDiploma": true,
+    "selectedSubjects": [
+      "GIT",
+      "Docker",
+      "Java",
+      "Automation"
+    ],
+    "examResults": {
+      "ukrLang": 180,
+      "math": 164,
+      "physics": 171
+    }
+  }
+}
